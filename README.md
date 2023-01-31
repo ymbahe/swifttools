@@ -1,2 +1,2 @@
 # swifttools
-Tools for analysis of SWIFT simulations
+Tools for analysing SWIFT simulations.
